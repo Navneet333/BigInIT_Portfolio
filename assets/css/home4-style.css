@@ -838,8 +838,8 @@ p {
     padding: 1px 10px;
     border: 1px solid rgba(255, 255, 255, 0.3);
     border-radius: 30px;
-    height: 1vh;
-    width: 2vw;
+    height: 0.5vh;
+    width: 1vw;
     padding-bottom: 28px;
   }
 }
