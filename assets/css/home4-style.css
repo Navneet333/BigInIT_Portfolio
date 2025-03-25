@@ -833,7 +833,7 @@ p {
     color: #d1d1d1; }
 
 /* ====================== [ Start Responsive ] ====================== */
-@media (min-width: 1800px) and (max-width: 2600px) {
+@media (min-width: 2200px) and (max-width: 2600px) {
   .navbar .logo {
     padding: 1px 10px;
     border: 1px solid rgba(255, 255, 255, 0.3);
