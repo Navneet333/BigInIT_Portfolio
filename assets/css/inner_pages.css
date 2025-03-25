@@ -38,6 +38,7 @@
     width: 4vw;
     padding-bottom: 38px;
   }
+
   .navbar .navbar-nav {
     padding: 2px 5px;
     border: 1px solid rgba(255, 255, 255, 0.3);
@@ -2114,3 +2115,17 @@ p {
   .footer-sa .call-action h2 {
     font-size: 35px;
     line-height: 1.4; } }
+
+@media (min-width: 300px) and (max-width: 900px) {
+  .navbar .logo {
+    padding: 1px 22px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    height: 40px;
+    width: 80px;
+  }
+  #footer1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
